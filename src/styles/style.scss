@@ -1,0 +1,11 @@
+$bg-coloar: white;
+$text-color:black;
+
+* {
+    background-color:  $bg-coloar;
+    color: $text-color;
+
+    h1{
+        color:  blue;
+    }
+}
