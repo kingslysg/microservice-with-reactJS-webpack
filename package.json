@@ -23,13 +23,15 @@
     "css-loader": "^6.7.3",
     "html-webpack-inject-plugin": "^5.3.1",
     "html-webpack-plugin": "^5.5.1",
+    "install": "^0.13.0",
     "mini-css-extract-plugin": "^2.7.2",
     "node-sass": "^8.0.0",
+    "npm": "^9.6.6",
     "sass": "^1.62.1",
     "sass-loader": "^13.2.2",
     "style-loader": "^3.3.2",
     "ts-loader": "^9.4.2",
-    "webpack": "^5.81.0",
+    "webpack": "^5.82.0",
     "webpack-cli": "^4.10.0",
     "webpack-dev-server": "^4.13.3"
   },
@@ -39,7 +41,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.43.9",
-    "zustand": "^4.3.7"
+    "zustand": "^4.3.8"
   },
   "browserslist": {
     "production": [
